@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Power Of Two");
-
+      Console.WriteLine("Power Of Two");
 
 int power, result = 1;
 Console.WriteLine("Enter the power of 2 : ");
